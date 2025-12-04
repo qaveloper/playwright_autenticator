@@ -1,0 +1,8 @@
+{
+    "successLogin": {
+        "message": "Congratulations student. You successfully logged in!"
+    },
+    "failureLogin": {
+        "message": "Your password is invalid!"
+    }
+}
